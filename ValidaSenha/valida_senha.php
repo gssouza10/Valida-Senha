@@ -10,19 +10,22 @@ IsValid("AbTp9 fok") // false
 IsValid("AbTp9!fok") // true
 */
 
-$senha = isset($_POST['senha']) ? $_POST['senha'] : ''; 
+$password = isset($_POST['password']) ? $_POST['password'] : ''; 
+
+$uppercase = preg_match('@[A-Z]@', $password);
+$space = preg_match('@[ ]@',$password);
+$lowercase = preg_match('@[a-z]@', $password);
+$number = preg_match('@[0-9]@', $password);
+$special_caracter = preg_match('/^(?=.*[!@#$%^&-])/', $password);
+
+$input = str_split($password);
+
+$result = array_unique($input);
 
 
-$uppercase = preg_match('@[A-Z]@', $senha);
-$lowercase = preg_match('@[a-z]@', $senha);
-$number = preg_match('@[0-9]@', $senha);
-$caracter = preg_match('/^(?=.*[!@#$%^&*-])/', $senha);
 
-//!-%&-+-^
-
-if(!$uppercase || !$lowercase || !$number || !$caracter || strlen($senha) < 9){
+if (!$uppercase || $space || !$lowercase || !$number || !$special_caracter || !(implode($input) == implode($result)) ||   strlen($password) < 9){
     echo 'senha inválida';
 }else{
-    echo $senha;
+    echo $password;
 }
-
