@@ -13,7 +13,7 @@ Por fim criei um laço condicional onde coloquei todas as strings das funções 
 ### Como executar o projeto?
 
 - A maneira mais fácil é testando apenas o PHP, através de um simulador de php http://phptester.net/, atribuindo um valor para a string password, exemplo $password = "AbTp9!fok"; e logo após copiar e colar o código de valida_senha.php sem o método de POST clique em 'Click to test your php code'.
-* Exemplo:
+* Exemplo: <br><br>
 <a href="https://imgur.com/rmfUT4M"><img src="https://i.imgur.com/rmfUT4M.png" title="source: imgur.com" /></a>
 
 - Caso queira testar na API local, baixe o xampp https://www.apachefriends.org/pt_br/index.html, após a instalação, abra o xamp e clique em start Apache
