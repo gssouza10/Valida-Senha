@@ -18,11 +18,11 @@ Por fim criei um laço condicional onde coloquei todas as strings das funções 
 
 - Caso queira testar na API local, baixe o xampp https://www.apachefriends.org/pt_br/index.html, após a instalação, abra o xamp e clique em start Apache
 <a href="https://imgur.com/pyufDNa"><img src="https://i.imgur.com/pyufDNa.png" title="source: imgur.com" /></a>
- * Acesse o Disco Local, clique em xampp
+ 1. Acesse o Disco Local, clique em xampp <br><br>
  <a href="https://imgur.com/YBHJNUO"><img src="https://i.imgur.com/YBHJNUO.png" title="source: imgur.com" /></a>
- *Entre na pasta htdocs
+ 2. Entre na pasta htdocs <br><br>
 <a href="https://imgur.com/uYG17mz"><img src="https://i.imgur.com/uYG17mz.png" title="source: imgur.com" /></a>
-* Por fim cole o projeto dentro dela
+3. Cole o projeto dentro dela <br><br>
 
-*Digite no navegador http://localhost:8888/ValidaSenha/
+4. Por fim digite no navegador http://localhost:8888/ValidaSenha/
 
