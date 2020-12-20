@@ -16,7 +16,7 @@ Por fim criei um laço condicional onde coloquei todas as strings das funções 
 * Exemplo: <br><br>
 <a href="https://imgur.com/rmfUT4M"><img src="https://i.imgur.com/rmfUT4M.png" title="source: imgur.com" /></a>
 
-- Caso queira testar na API local, baixe o xampp https://www.apachefriends.org/pt_br/index.html, após a instalação, abra o xamp e clique em start Apache
+- Caso queira testar na API local, baixe o xampp https://www.apachefriends.org/pt_br/index.html, após a instalação, abra o xamp e clique em start Apache. <br><br>
 <a href="https://imgur.com/pyufDNa"><img src="https://i.imgur.com/pyufDNa.png" title="source: imgur.com" /></a>
  1. Acesse o Disco Local, clique em xampp <br><br>
  <a href="https://imgur.com/YBHJNUO"><img src="https://i.imgur.com/YBHJNUO.png" title="source: imgur.com" /></a>
