@@ -11,7 +11,7 @@ Busquei simplificar o código.
 Por fim criei um laço condicional onde coloquei todas as strings das funções criadas e também a função implode que une as strings convertidas em array, caso todos parametros sejam diferente do solicitado aparecerá uma mensagem de senha inválida, caso estejam iguais irá mostrar a senha.
 
 ### Como executar o projeto?
-
+- Primeiramente de um git clone do projeto no meu repositório 
 - A maneira mais fácil é testando apenas o PHP, através de um simulador de php http://phptester.net/, atribuindo um valor para a string password, exemplo $password = "AbTp9!fok"; e logo após copiar e colar o código de valida_senha.php sem o método de POST clique em 'Click to test your php code'.
 * Exemplo: <br><br>
 <a href="https://imgur.com/rmfUT4M"><img src="https://i.imgur.com/rmfUT4M.png" title="source: imgur.com" /></a>
