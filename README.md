@@ -23,7 +23,7 @@ Por fim criei um laço condicional onde coloquei todas as strings das funções 
  2. Entre na pasta htdocs <br><br>
 <a href="https://imgur.com/uYG17mz"><img src="https://i.imgur.com/uYG17mz.png" title="source: imgur.com" /></a>
 3. Cole o projeto dentro dela como no exemplo<br><br>
-<a href="https://imgur.com/HuqLCaz"><img src="https://i.imgur.com/HuqLCaz.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/WfmCcoN"><img src="https://i.imgur.com/WfmCcoN.png" title="source: imgur.com" /></a>
 4. Por fim digite no navegador http://localhost:8888/ValidaSenha/ <br><br>
 <a href="https://imgur.com/7ls4z2Q"><img src="https://i.imgur.com/7ls4z2Q.png" title="source: imgur.com" /></a>
 5. Faça o teste digitando sua senha e clicando em gravar <br><br>
