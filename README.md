@@ -12,7 +12,9 @@ Por fim criei um laço condicional onde coloquei todas as strings das funções 
 
 ### Como executar o projeto?
 
-- A maneira mais fácil é testando apenas o PHP, através de um simulador de php http://phptester.net/
+- A maneira mais fácil é testando apenas o PHP, através de um simulador de php http://phptester.net/, atribuindo um valor para a string password, exemplo $password = "AbTp9!fok"; e logo após copiar e colar o código de valida_senha.php.
+* Exemplo:
+<a href="https://imgur.com/jsyyS48"><img src="https://i.imgur.com/jsyyS48.png" title="source: imgur.com" /></a>
 
 
 
