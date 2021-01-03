@@ -1,5 +1,5 @@
 ### backend-challenge
-## Resolução do case SRE 
+## Resolução do desafio 
 
 ## Descrição
 
